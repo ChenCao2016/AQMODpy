@@ -1,5 +1,5 @@
 # AQMODpy
-AQMODpy is a Python source code for AMP Quantized-MIMO-OFDM Decoder
+AQMODpy is the Python source code for AMP Quantized-MIMO-OFDM Decoder
 
 Feel free to contact me for any questions:
 
