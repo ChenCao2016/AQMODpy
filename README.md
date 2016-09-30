@@ -24,3 +24,4 @@ Chen Cao, University of Lousiville, chen.cao@louisville.edu
 ### kernal decoder
  AMP decoder
 ##How to use 
+Check demo.py for simple illustration
