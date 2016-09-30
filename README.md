@@ -9,4 +9,6 @@ Chen Cao, University of Lousiville, chen.cao@louisville.edu
 
 ##What's included
 ### channel package
+### channel coding package
+### channel coding package
 ##How to use 
