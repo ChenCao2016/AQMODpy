@@ -11,11 +11,15 @@ Chen Cao, University of Lousiville, chen.cao@louisville.edu
  ADC model
 ### channel coding package
  LDPC encoder
+ 
  LDPC decoder (sum-product algoritm)
 ### constellation package
  Softer mapper
+ 
  Softer demapper
+ 
  block interleaver
+ 
  block deinterleaver
 ### kernal decoder
  AMP decoder
